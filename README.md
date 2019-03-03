@@ -15,6 +15,6 @@ def function():
     return bar
 ```
 
-[Google]("https://google.com")
+[Google](https://google.com)
 
-$\theta x ^{x}$
+$ \theta x ^{x} $
