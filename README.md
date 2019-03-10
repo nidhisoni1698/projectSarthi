@@ -1,20 +1,6 @@
-# Heading 1
-## Heading 2
-### Heading 3
+# Project Sarthi
 
-* Item 1
-* Item 3
-* Item 3
+_Project Sarthi is my final year college project on IOS where students can share their projects with other college's students and also helps in making there profile(resume). Students would be able to contact other if they are interested in their projects and also can follow them. Our project will be deployed on both IPhones and web site._
 
-1. Item 1
-2. item 2
-3. item 3
 
-```python 
-def function():
-    return bar
-```
 
-[Google](https://google.com)
-
-$ \theta x ^{x} $
